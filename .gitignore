@@ -31,3 +31,4 @@ theme_old/
 /javasource/system/
 /**/node_modules/
 !/javascriptsource/**/node_modules/
+/nativemobile/builds/
